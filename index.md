@@ -2,8 +2,6 @@
 layout: about 
 ---
 
-<!-- # About Me -->
-
 I'm Deep Learning Researcher at ESTsoft Corp., Seoul, Republic of Korea. 
 I’m Deep Learning Researcher at ESTsoft Corp., Seoul, Republic of Korea. At ESTsoft, I’m mainly concentrating on improving the uncertainty representation ability of neural networks and encoding human priors into neural networks. I’ve also developed a neural portfolio optimization system, called model-T1, based on importance sampling and robust value function which will be released to the real market soon. 
 Prior to joining ESTsoft, I received MSc and BSc degrees in industrial and management engineering with a minor in applied mathematics from Hanyang University, ERICA Campus, Republic of Korea. At Hanyang University, I worked with [Dongmin Shin](https://interact.hanyang.ac.kr/), concentrating on applying machine learning/deep learning into human-involved manufacturing systems for adaptive system design.
@@ -21,6 +19,7 @@ E-mail: tjoo512 at gmail dot com
 
 Deep learning requires explicit regularization for reliable predictive probability.  \
 __Taejong Joo__, Uijung Chung \
+*arXiv, 2020*    
 [paper](https://arxiv.org/abs/2006.06399) 
 
 
@@ -33,7 +32,7 @@ __Taejong Joo__, Uijung Chung, Min-Gwan Seo \
 [code](https://github.com/tjoo512/belief-matching-framework) 
 
 Regularizing activations in neural networks via distribution matching with the Wasserstein metric.  \
-__Taejong Joo__, Donggu Kang, Byunghun Kim \
+__Taejong Joo__, Donggu Kang, Byunghoon Kim \
 *International Conference on Learning Representations (ICLR), 2020*       
 [paper](https://arxiv.org/abs/2002.05366) 
 
