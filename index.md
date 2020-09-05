@@ -2,8 +2,7 @@
 layout: about 
 ---
 
-I'm Deep Learning Researcher at ESTsoft Corp., Seoul, Republic of Korea. 
-I’m Deep Learning Researcher at ESTsoft Corp., Seoul, Republic of Korea. At ESTsoft, I’m mainly concentrating on improving the uncertainty representation ability of neural networks and encoding human priors into neural networks. I’ve also developed a neural portfolio optimization system, called model-T1, based on importance sampling and robust value function which will be released to the real market soon. 
+I’m Deep Learning Researcher at ESTsoft Corp., Seoul, Republic of Korea. At ESTsoft, I’m mainly concentrating on improving the uncertainty representation ability of neural networks and encoding human priors into neural networks. I’ve also developed a neural network agent for financial portfolio optimization, called model-T1, based on importance sampling and a robust value function which will be released to a real market soon. 
 Prior to joining ESTsoft, I received MSc and BSc degrees in industrial and management engineering with a minor in applied mathematics from Hanyang University, ERICA Campus, Republic of Korea. At Hanyang University, I worked with [Dongmin Shin](https://interact.hanyang.ac.kr/), concentrating on applying machine learning/deep learning into human-involved manufacturing systems for adaptive system design.
 
 My research goal is building machine learning models whose implicit/explicit assumptions and predictive behaviors make sense to humans and flexible enough so that knowledge and preference of humans can be readily incorporated, thereby building artificial intelligence *that can cooperate with people more easily*. 
