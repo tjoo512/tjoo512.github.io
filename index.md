@@ -2,7 +2,7 @@
 layout: about 
 ---
 
-I am a PhD student in the Department of Industrial Engineering & Management Science at Northwestern University. I am primarily interested in robust and reliable machine learning. In particular, my research interests include diverse faces of generalization in machine learning and interfaces between people and machine learning models. 
+I am a PhD student in the Department of Industrial Engineering & Management Sciences at Northwestern University. I am primarily interested in robust and reliable machine learning. In particular, my research interests include diverse faces of generalization in machine learning and interfaces between people and machine learning models. 
 
 
 Email: tjoo at u dot northwestern dot edu \
@@ -45,5 +45,5 @@ Benjamin K. Sachs Graduate Fellowship (awarded to an exceptional incoming PhD st
 
 # Activities
 
-Reviewer: ICML’21, NeurIPS’21
+Reviewer: ICML’21, NeurIPS’21, ICLR'22
 
