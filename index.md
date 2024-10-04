@@ -2,7 +2,7 @@
 layout: about 
 ---
 
-I am a PhD student in the Department of Industrial Engineering & Management Sciences at Northwestern University. I am primarily interested in robust and reliable machine learning. In particular, my research interests include diverse faces of generalization in machine learning and interfaces between people and machine learning models. 
+I am a PhD student in the Department of Industrial Engineering & Management Sciences at Northwestern University. I am primarily interested in robust and reliable machine learning. 
 
 
 Email: tjoo at u dot northwestern dot edu \
@@ -10,6 +10,15 @@ Email: tjoo at u dot northwestern dot edu \
 
 
 # Research
+
+Improving self-training under distribution shifts via anchored confidence with theoretical guarantees. \
+__Taejong Joo__, Diego Klabjan \
+* Neural Information Processing Systems (NeurIPS), 2024*
+
+IW-GAE: Importance Weighted Group Accuracy Estimation for Improved Calibration and Model Selection in Unsupervised Domain Adaptation. \
+__Taejong Joo__, Diego Klabjan \
+*International Conference on Machine Learning (ICML), 2024*    
+[paper](https://arxiv.org/abs/2310.10611) 
 
 Revisiting explicit regularization in neural networks for well-calibrated predictive uncertainty. \
 __Taejong Joo__, Uijung Chung \
