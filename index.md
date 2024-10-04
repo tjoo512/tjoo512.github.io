@@ -15,7 +15,7 @@ Improving self-training under distribution shifts via anchored confidence with t
 __Taejong Joo__, Diego Klabjan \
 *Neural Information Processing Systems (NeurIPS), 2024*
 
-IW-GAE: Importance Weighted Group Accuracy Estimation for Improved Calibration and Model Selection in Unsupervised Domain Adaptation. \
+IW-GAE: Importance weighted group accuracy estimation for improved calibration and model selection in unsupervised domain adaptation. \
 __Taejong Joo__, Diego Klabjan \
 *International Conference on Machine Learning (ICML), 2024*    
 [paper](https://arxiv.org/abs/2310.10611) 
