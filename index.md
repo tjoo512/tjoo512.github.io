@@ -13,7 +13,7 @@ Email: tjoo at u dot northwestern dot edu \
 
 Improving self-training under distribution shifts via anchored confidence with theoretical guarantees. \
 __Taejong Joo__, Diego Klabjan \
-* Neural Information Processing Systems (NeurIPS), 2024*
+*Neural Information Processing Systems (NeurIPS), 2024*
 
 IW-GAE: Importance Weighted Group Accuracy Estimation for Improved Calibration and Model Selection in Unsupervised Domain Adaptation. \
 __Taejong Joo__, Diego Klabjan \
