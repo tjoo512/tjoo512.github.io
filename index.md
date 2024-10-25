@@ -2,7 +2,10 @@
 layout: about 
 ---
 
-I am a PhD student in the Department of Industrial Engineering & Management Sciences at Northwestern University. I am primarily interested in robust and reliable machine learning. 
+My research focuses on robust and efficient machine learning that can operate autonomously in complex and unpredictable environments. With expertise in statistics, optimization, and human-machine interaction, I explore how machine learning models can generalize to new tasks, adapt to unseen environments, and quantify uncertainty for reliable decision-making. My long-term goal is to create AI systems with human-level adaptability that efficiently tackle evolving challenges and collaborate effectively with people at scale.
+
+
+I am a PhD student in the Department of Industrial Engineering & Management Sciences at Northwestern University, where I am fortunate to work with [Diego Klabjan](https://dynresmanagement.com/index.html). Prior to this, I was a senior deep learning researcher at [ESTsoft](https://estsoft.ai/en/).
 
 
 Email: tjoo at u dot northwestern dot edu \
@@ -54,5 +57,5 @@ Benjamin K. Sachs Graduate Fellowship (awarded to an exceptional incoming PhD st
 
 # Activities
 
-Reviewer: ICML’21, NeurIPS’21, ICLR'22
+Reviewer: ICML, NeurIPS, ICLR
 
