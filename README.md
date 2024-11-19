@@ -1,1 +1,1 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+This is the source code for my personal website: [https://tjoo512.github.io/](https://tjoo512.github.io/). The design is from Jon Barron's public academic website template: [https://jonbarron.info/](https://jonbarron.info/), with just a few minor tweaks on my end. You're welcome to clone this repository, but please do credit Jon's original repo rather than mine. Thank you!

@@ -1,151 +1,109 @@
 <!DOCTYPE HTML>
 <html lang="en">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-    <title>Taejong Joo</title>
-
+<head>
+    <meta charset="UTF-8">
     <meta name="author" content="Taejong Joo">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Taejong Joo</title>
     <link rel="shortcut icon" href="images/favicon/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" type="text/css" href="stylesheet.css">
-    
-  </head>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
 
-  <body>
-    <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-      <tr style="padding:0px">
-        <td style="padding:0px">
-          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-            <tr style="padding:0px">
-              <td style="padding:2.5%;width:63%;vertical-align:middle">
-                <p class="name" style="text-align: center;">
-                  Taejong Joo
-                </p>
-		<p>
-		  I am a PhD student in the <a href="https://www.mccormick.northwestern.edu/industrial/">Department of Industrial Engineering & Management Sciences</a> at <a href="https://www.northwestern.edu/">Northwestern University</a>, where I am fortunate to work with <a href="https://dynresmanagement.com/index.html">Diego Klabjan</a>. 
-		</p>
+<body>
+    <div class="container">
+        <!-- Header Section -->
+        <div class="profile">
+            <div class="profile-text">
+                <h1 class="name">Taejong Joo</h1>
                 <p>
-		  My research focuses on robust and efficient machine learning that can operate autonomously in complex and unpredictable environments. With expertise in statistics, optimization, and human-machine interaction, I explore how machine learning models can generalize to new tasks, adapt to unseen environments, and quantify uncertainty for reliable decision-making. My long-term goal is to create AI systems with human-level adaptability that efficiently tackle evolving challenges and collaborate effectively with people at scale.
+                    I am a PhD student in the <a href="https://www.mccormick.northwestern.edu/industrial/">Department of Industrial Engineering & Management Sciences</a> at <a href="https://www.northwestern.edu/">Northwestern University</a>, where I am fortunate to work with <a href="https://dynresmanagement.com/index.html">Diego Klabjan</a>. 
                 </p>
                 <p>
-                  Previously, I was a senior deep learning researcher at <a href="https://estsoft.ai/en/">ESTsoft</a>, where I worked on distribution shifts, contextual bandit, scalable variational inference, and model compression for machine learning in finance. 
+                    My research focuses on robust machine learning, aiming to maintain remarkable generalization performance of machine learning models in unpredictable environments while ensuring efficiency for real-world applications.
+                    With expertise in statistics and optimization, I investigate how machine learning models can generalize to new tasks and adapt to unseen environments. My work also focuses on efficiently quantifying uncertainty to enable reliable decision-making, even under distribution shifts.
                 </p>
-		<p>
-		  The best way to contact me is by email: taejong.joo [at] northwestern.edu
-		</p>
-              </td>
-              <td style="padding:2.5%;width:40%;max-width:40%">
-                <a href="images/profile.jpg"><img style="width:100%;max-width:100%;object-fit: cover; border-radius: 50%;" alt="profile photo" src="images/profile.jpg" class="hoverZoomLink"></a>
-              </td>
-            </tr>
-          </tbody></table>
-
-		
-          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-              <tr>
-              <td style="padding:20px;width:100%;vertical-align:middle">
-                <h2>Selected Research</h2>
                 <p>
-                  For the full list of my publications, please visit my <a href="https://scholar.google.com/citations?user=ESo1UqMAAAAJ&hl=en">Google Scholar</a>
+                    Currently, I am exploring the opportunities and challenges of foundation models, with a focus on robustness, AI alignment and safety, and the interactions between these factors.
                 </p>
-              </td>
-            </tr>
-          </tbody></table>
-          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-
-<!-- 	     -->
-            <tr>
-              <td style="padding:20px;width:25%;vertical-align:middle">
-                <img src="images/ancon.png" width="180">
-              </td>
-              <td width="75%" valign="middle">
-                <a href="https://arxiv.org/abs/2411.00586">
-                  <span class="papertitle">Improving Self-Training Under Distribution Shifts via Anchored Confidence With Theoretical Guarantees</span>
+                <p>
+                    Previously, I was a senior deep learning researcher at ESTsoft, where I mostly worked on distribution shifts, contextual bandit, scalable variational inference, and model compression for machine learning in finance. I built the company's first ML model, which had been successfully operated in the Korean stock market.
+                </p>
+                <p>
+                    The best way to contact me is by email: taejong.joo [at] northwestern.edu
+                </p>
+            </div>
+            <div class="profile-image">
+                <a href="images/profile.jpg">
+                    <img src="images/profile.jpg" alt="profile photo">
                 </a>
-                <br>
-		<strong>Taejong Joo</strong>, Diego Klabjan
-                <br>
-        	<em>Neural Information Processing Systems (NeurIPS)</em>, 2024
-                <p>We prove that selectively promoting temporal consistency for confident predictions significantly enhances self-training performance under distribution shifts. This approach prevents the common issue of model collapse—where performance deteriorates after a few epochs of self-training—resulting in improved performances with attractive robustness properties. </p>
-		      
-              </td>
-            </tr>
+            </div>
+        </div>
+
+        <!-- Research Section -->
+        <div class="section">
+            <h2>Selected Research</h2>
+            <p>For the full list of my publications, visit my <a href="https://scholar.google.com/citations?user=ESo1UqMAAAAJ&hl=en">Google Scholar</a>.</p>
+            <br>
+
+            <div class="research-item">
+                <img src="images/ancon.png" alt="Research Image">
+                <div>
+                    <a href="https://arxiv.org/abs/2411.00586" class="papertitle">Improving Self-Training Under Distribution Shifts via Anchored Confidence With Theoretical Guarantees</a>
+                    <strong>Taejong Joo, Diego Klabjan</strong><br>
+                    <em>Neural Information Processing Systems (NeurIPS)</em>, 2024
+                    <br><br>
+                    <p>
+                        &thinsp; We prove that selectively promoting temporal consistency for confident predictions significantly enhances self-training performance under distribution shifts. This approach prevents the common issue of model collapse—where performance deteriorates after a few epochs of self-training—resulting in improved performances with attractive robustness properties. 
+                    </p>
+                </div>
+            </div>
+
+            <div class="research-item">
+                <img src="images/iw_gae.png" alt="Research Image">
+                <div>
+                    <a href="https://arxiv.org/abs/2310.10611" class="papertitle">IW-GAE: Importance Weighted Group Accuracy Estimation for Improved Calibration and Model Selection in Unsupervised Domain Adaptation</a>
+                    <strong>Taejong Joo, Diego Klabjan</strong><br>
+                    <em>International Conference on Machine Learning (ICML)</em>, 2024
+                    <br><br>
+                    <p>
+                        &thinsp; We introduce a new approach for simultaneously addressing model calibration and model selection in unsupervised domain adaptation: estimating the average accuracy across subpopulations. For efficient and accurate subpopulation accuracy estimation, we formulate the high-dimensional importance weight estimation problem into a more tractable coordinate-wise convex optimization problem. 
+                    </p>
+                </div>
+            </div>
+
+            <div class="research-item">
+                <img src="images/bm.png" alt="Research Image">
+                <div>
+                    <a href="https://proceedings.mlr.press/v119/joo20a.html" class="papertitle">Being Bayesian about Categorical Probability</a>
+                    <strong>Taejong Joo, Uijung Chung, Min-Gwan Seo</strong><br>
+                    <em>International Conference on Machine Learning (ICML)</em>, 2020
+                    <br><br>
+                    <p>
+			            &thinsp; We propose a scalable variational inference framework using a last-layer Dirichlet model as a new alternative to Bayesian neural networks. Our approach significantly enhances uncertainty representation ability of deterministic neural networks while preserving their strong generalization performances and efficiency unlike Monte Carlo dropout and deep ensembles.
+                    </p>
+                </div>
+            </div>
+        </div>
 
 
-		  
-            <tr>
-              <td style="padding:20px;width:25%;vertical-align:middle">
-                <img src="images/iw_gae.png" width="180">
-              </td>
-              <td width="75%" valign="middle">
-                <a href="https://arxiv.org/abs/2310.10611">
-                  <span class="papertitle">IW-GAE: Importance Weighted Group Accuracy Estimation for Improved Calibration and Model Selection in Unsupervised Domain Adaptation</span>
-                </a>
-                <br>
-		<strong>Taejong Joo</strong>, Diego Klabjan
-                <br>
-        	<em>International Conference on Machine Learning (ICML)</em>, 2024
-                <p>We introduce a novel approach for simultaneously addressing model calibration and model selection in unsupervised domain adaptation by estimating the average accuracy across subpopulations. For efficient and accurate subpopulation accuracy estimation, we formulate the high-dimensional importance weight estimation problem into a more tractable coordinate-wise convex optimization problem. </p>
-              </td>
-            </tr>
+        <!-- Miscellaneous Section -->
+        <div class="section">
+            <h2>Misc.</h2>
+            <p>
+                Guided by first principles and the elegance of Occam’s razor, I believe simplicity often reveals the deepest insights and leads to effective and versatile solutions (with far fewer headaches).
+            </p>
+            <p>
+                Outside of work, I enjoy experimenting in the kitchen as a self-proclaimed master chef (enthusiastically endorsed by my wife), playing tennis, splashing paint on canvas, and traveling. 
+            </p>
+            <p>
+                Fun fact: My Erdős Number = 3: Taejong Joo -> Diego Klabjan -> Craig Tovey -> Paul Erdős
+            </p>
+        </div>
 
-		  
-	  <tr>
-              <td style="padding:20px;width:25%;vertical-align:middle">
-                <img src="images/bm.png" width="180">
-              </td>
-              <td width="75%" valign="middle">
-                <a href="https://proceedings.mlr.press/v119/joo20a.html">
-                  <span class="papertitle">Being Bayesian about Categorical Probability</span>
-                </a>
-                <br>
-		<strong>Taejong Joo</strong>, Uijung Chung, Min-Gwan Seo
-                <br>
-        	<em>International Conference on Machine Learning (ICML)</em>, 2020
-                <p>
-			We propose a scalable variational inference framework using a last-layer Dirichlet model to efficiently estimate uncertainty in deep neural networks. Our approach significantly reduces overconfidence while preserving the strong generalization of deterministic neural nets, without the computational overhead of Monte Carlo dropout, deep ensembles, or Bayesian neural networks.
-		</p>
-              </td>
-            </tr>
-
-
-	  </tbody></table>
-<!-- 	     -->
-<!-- 	     -->
-<!-- 	     -->
-
-          <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
-            <tr>
-              <td>
-                <h2>Misc.</h2>
-              </td>
-            </tr>
-          </tbody></table>
-          <table width="100%" align="center" border="0" cellspacing="0 cellpadding="20"><tbody>
-	      <tr>
-		<p>
-			Guided by first principles and the elegance of Occam’s razor, I believe that the simplest solutions often reveal the deepest insights and the most effective methods (with far fewer headaches). 
-		</p>
-	  	<p>
-			Outside of work, I enjoy experimenting in the kitchen as a self-proclaimed master chef (enthusiastically endorsed by my wife), playing tennis with Rafa’s spirit (while striving for Federer’s backhand), and splashing paint on canvas. 
-		</p>
-	      </tr>
-          </tbody></table>
-
-		
-          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-            <tr>
-              <td style="padding:0px">
-                <br>
-                <p style="text-align:right;font-size:small;">
-                  The template is from <a href="http://jonbarron.info/">Jon Barron</a> (<a href="https://github.com/jonbarron/jonbarron_website">source code</a>). 
-                </p>
-              </td>
-            </tr>
-          </tbody></table>
-        </td>
-      </tr>
-    </table>
-  </body>
+        <!-- Footer Section -->
+        <footer>
+            <p>Template by <a href="http://jonbarron.info/">Jon Barron</a> (<a href="https://github.com/jonbarron/jonbarron_website">source code</a>).</p>
+        </footer>
+    </div>
+</body>
 </html>
