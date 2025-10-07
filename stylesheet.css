@@ -76,7 +76,6 @@ p {
   display: block;
   max-width: 100px;
   margin: 0 50px; 
-  width: 100%;
   height: auto;
   flex-shrink: 0;
   object-fit: contain;
