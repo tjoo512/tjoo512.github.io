@@ -141,7 +141,7 @@ footer {
   }
 
   .company-item {
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     text-align: left;
   }
